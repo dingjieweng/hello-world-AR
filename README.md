@@ -1,11 +1,21 @@
 ### Hello AR
 
+
+
+
 ![Imgur](https://imgur.com/1OWwE3f.png)
 
 <br/>
 
 
 ## Week 8 Assignment
+hello_danny
+-----------------
+I used example 2 to create a AR that displays the twins from the shining when the marker was captured correctly by the phone camera! the text sayind "Hello Danny!" will also be displayed with the twins.
+
+
+
+
 #### Reading:
 * [The Ultimate Display](http://worrydream.com/refs/Sutherland%20-%20The%20Ultimate%20Display.pdf)
 * via Yohe Wang: [A channel on Medium that collected some AR-related articles](https://blog.prototypr.io/tagged/augmented-reality)
